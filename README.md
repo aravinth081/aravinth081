@@ -35,7 +35,7 @@
 
 ---
 
-### 🌟 Highlighted Project: AgroRisk AI+
+### 🌟 Highlighted Project: Agro Intelligence
 A smart agricultural platform designed to leverage machine learning for modern farming solutions.
 * **Focus Areas:** Predictive modeling, smart crop management, and seamless web integration.
 * Check out the pinned repositories below to see the source code and documentation.
