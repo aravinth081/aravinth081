@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Full-Stack Developer & AI Enthusiast specializing in Machine Learning.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravinth081&label=Profile%20Views&color=005A9C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aravinth081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -52,11 +52,11 @@ A structured application designed to streamline, manage, and automate multi-step
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravinth081&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth081&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aravinth081&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth081&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth081&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth081&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
