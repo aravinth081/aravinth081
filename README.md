@@ -12,7 +12,7 @@
 
 * 🎓 Currently in my second year pursuing a **B.E. in Computer Science and Engineering (AI & ML)** at Sri Venkateswara Hi-Tech Engineering College.
 * 🚀 Aspiring Full-Stack Developer with a deep interest in artificial intelligence, robotics, and biosensors.
-* 🌱 Currently building **AgroRisk AI+**, a smart agricultural platform, alongside my portfolio of 10+ completed projects.
+* 🌱 Currently building **Agro Intelligence** (a smart agricultural platform) and an **Approval Workflow System**, alongside my portfolio of 10+ completed projects.
 * 🎯 **Short-term goal:** Secure a role in a reputable tech company to apply and expand my development skills.
 * 🔭 **Long-term goal:** Continuously upgrade my expertise in AI and cloud technologies.
 * 📍 Based in Kallakurichi, Tamil Nadu.
@@ -35,10 +35,17 @@
 
 ---
 
-### 🌟 Highlighted Project: Agro Intelligence
+### 🌟 Highlighted Projects
+
+**🌱 Agro Intelligence**
 A smart agricultural platform designed to leverage machine learning for modern farming solutions.
 * **Focus Areas:** Predictive modeling, smart crop management, and seamless web integration.
-* Check out the pinned repositories below to see the source code and documentation.
+
+**✅ Approval Workflow Project**
+A structured application designed to streamline, manage, and automate multi-step approval processes.
+* **Focus Areas:** Task automation, efficient routing, and role-based access management.
+
+*Check out the pinned repositories below to see the source code and documentation.*
 
 ---
 
