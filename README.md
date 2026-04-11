@@ -1,6 +1,6 @@
  <h1 align="center">Hi there, I'm Aravinth! 👋</h1>
 
-<h3 align="center">An aspiring Full-Stack Developer & AI Enthusiast specializing in Machine Learning.</h3>
+<h3 align="center">An aspiring AI Engineer specializing in Machine Learning & Intelligent Systems.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aravinth081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently in my second year pursuing a **B.E. in Computer Science and Engineering (AI & ML)** at Sri Venkateswara Hi-Tech Engineering College.
-* 🚀 Aspiring Full-Stack Developer with a deep interest in artificial intelligence, robotics, and biosensors.
+* 🎓 Currently in my second year pursuing a **B.E. in Computer Science and Engineering (AI & ML)** at Shree Venkateswara Hi-Tech Engineering College.
+* 🚀 Aspiring **AI Engineer** with a deep interest in artificial intelligence, machine learning, robotics, and biosensors.
 * 🌱 Currently building **Agro Intelligence** (a smart agricultural platform) and an **Approval Workflow System**, alongside my portfolio of 10+ completed projects.
-* 🎯 **Short-term goal:** Secure a role in a reputable tech company to apply and expand my development skills.
+* 🎯 **Short-term goal:** Secure a role as an AI Engineer in a reputable tech company to apply and expand my machine learning and software development skills.
 * 🔭 **Long-term goal:** Continuously upgrade my expertise in AI and cloud technologies.
 * 📍 Based in Kallakurichi, Tamil Nadu.
 
