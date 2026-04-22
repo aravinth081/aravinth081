@@ -34,7 +34,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=350&height=200&lines=HEY!;DEVELOPER!" alt="Hey Developer" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=350&height=200&lines=HEY!;DEVELOPERS!" alt="Hey Developers" /></a>
     </td>
   </tr>
 </table>
@@ -91,6 +91,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth081&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9" alt="Top Languages" width="48%" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth081&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=c9d1d9&currStreakLabel=00E5FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="80%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravinth081&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=0D1117&title_color=00E5FF&hide_border=true" alt="Contribution Graph" width="80%" />
 </div>
 
 ---
