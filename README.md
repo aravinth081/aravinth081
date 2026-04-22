@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Building+Intelligent+Systems;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 
   <br><br>
@@ -23,17 +23,18 @@
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
+      <br>
       <ul>
-        <li>🎓 <b>Education:</b> B.E. in Computer Science and Engineering (AI & ML) at Shree Venkateswara Hi-Tech Engineering College.</li>
-        <li>💼 <b>Career Goal:</b> AI Engineer | Building AI-driven innovations and intelligent systems.</li>
-        <li>📍 <b>Location:</b> Kallakurichi, Tamil Nadu, India.</li>
-        <li>💡 <b>Interests:</b> Artificial Intelligence, Machine Learning, Robotics, Biosensors, Full-Stack Development.</li>
-        <li>🌱 <b>Currently Building:</b> Agro Intelligence & Approval Workflow System.</li>
-        <li>🔭 <b>Long-term Goal:</b> Continuously upgrade my expertise in explainable AI and cloud technologies.</li>
+        <li><img src="https://img.shields.io/badge/🎓_Education-0D1117?style=plastic&logo=google-scholar&logoColor=00E5FF" valign="middle"/> B.E. in Computer Science and Engineering (AI & ML) at Shree Venkateswara Hi-Tech Engineering College.</li><br>
+        <li><img src="https://img.shields.io/badge/💼_Career_Goal-0D1117?style=plastic&logo=target&logoColor=00E5FF" valign="middle"/> AI Engineer | Building AI-driven innovations and intelligent systems.</li><br>
+        <li><img src="https://img.shields.io/badge/📍_Location-0D1117?style=plastic&logo=google-maps&logoColor=00E5FF" valign="middle"/> Kallakurichi, Tamil Nadu, India.</li><br>
+        <li><img src="https://img.shields.io/badge/💡_Interests-0D1117?style=plastic&logo=star&logoColor=00E5FF" valign="middle"/> Artificial Intelligence, Machine Learning, Robotics, Biosensors, Full-Stack.</li><br>
+        <li><img src="https://img.shields.io/badge/🌱_Building-0D1117?style=plastic&logo=codeforces&logoColor=00E5FF" valign="middle"/> Agro Intelligence & Approval Workflow System.</li><br>
+        <li><img src="https://img.shields.io/badge/🔭_Vision-0D1117?style=plastic&logo=space-engineers&logoColor=00E5FF" valign="middle"/> Continuously upgrade my expertise in explainable AI and cloud technologies.</li>
       </ul>
     </td>
-    <td width="35%" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20e30342674403.57d59b207eb42.gif" width="90%" alt="AI Neural Brain">
+    <td width="35%" align="center" valign="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=350&height=200&lines=HEY!;DEVELOPER!" alt="Hey Developer" /></a>
     </td>
   </tr>
 </table>
